@@ -3,7 +3,7 @@
 # from langchain_openai import OpenAIEmbeddings
 # from langchain.vectorstores import FAISS
 # from langchain_core.pydantic_v1 import BaseModel, Field
-# from langchain import PromptTemplate
+# from langchain import PromptTemplate 
 
 #최신 버전 langchain 적용
 from langchain_community.document_loaders import PyPDFLoader
